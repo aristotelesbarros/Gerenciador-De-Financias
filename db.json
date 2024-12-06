@@ -1,0 +1,19 @@
+{
+  "transactions": [
+    {
+      "name": "Salário",
+      "amount": 3200,
+      "id": "3"
+    },
+    {
+      "id": "96ba",
+      "name": "Conta de Luz",
+      "amount": -200
+    },
+    {
+      "id": "ff5d",
+      "name": "Conta de Água",
+      "amount": -100
+    }
+  ]
+}
